@@ -5,7 +5,7 @@ import About from '../../components/About';
 import Contact from '../../components/Contact';
 import Portfolio from '../../components/Portfolio';
 import Resume from '../../components/Resume';
-import logo from '../../assets/images/logo';
+import logo from '../../assets/images/logo.png';
 
 class Header extends Component {   
     render() {
