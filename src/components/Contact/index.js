@@ -39,7 +39,7 @@ function ContactForm() {
       }
     // JSX
     return (
-      <section id="contact-section">
+      <section class="justify-content-center" id="contact-section">
           <h1 className="contact">Contact</h1>
           <hr></hr>
           <form class="justify-content-center" id="contact-form">

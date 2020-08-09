@@ -40,6 +40,10 @@ body {
 
 }
 
+title {
+  justify-content: center;
+}
+
 h1,
 h2,
 h3,
@@ -48,7 +52,7 @@ h5,
 h6 {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  margin: 5px 0;
+  margin: 5px;
   line-height: 1.25;
 }
 
@@ -91,13 +95,6 @@ a:hover {
   text-decoration: underline;
 }
 
-header {
-  background: var(--dark);
-}
-
-header a {
-  color: var(--light);
-}
 
 button {
   font-size: 1rem;
@@ -165,12 +162,6 @@ textarea {
 	padding: 5px;
 }
 
-.container {
-  width: 85%;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 .flex-row {
   display: flex;
@@ -385,8 +376,23 @@ a {
   padding: 10px;
 }
 
+.name {
+  justify-content: center;
+}
+
 #about-section {
   margin: 2em;
+}
+
+#profile {
+  height: 400px;
+  width: auto;
+  justify-content: center;
+  border-radius: 25%;
+}
+
+#aboutTitle {
+  justify-content: center;
 }
 
 #about-section p {
@@ -399,6 +405,10 @@ a {
   margin: 20px;
   margin-left: 10em;
   margin-right: 10em;
+}
+
+.contact {
+  justify-content: left;
 }
 
 #front-back ul {
@@ -450,7 +460,7 @@ a {
 
 
 #resume h1 {
-   font: 26px/20px 'opensans-bold', sans-serif;
+   font: 28px/20px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
@@ -462,6 +472,7 @@ a {
    font: 25px/30px 'opensans-bold', sans-serif;
    text-align: center;
    margin-top: 15px;
+   justify-content: center;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -483,6 +494,7 @@ a {
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
+   margin-left: 50px;
 }
 #resume .info span {
    margin-right: 5px;
@@ -492,8 +504,6 @@ a {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
-
-
 
 #activities {
   font-style: italic;

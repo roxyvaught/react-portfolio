@@ -3,7 +3,7 @@
     {
     "id": 1,
     "name": "National Park Finder",
-    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/NPS-vacation-planner.png",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/NPS-vaction-planner.png",
     "github": "https://github.com/roxyvaught/Vacation-Planner",
     "deploy": "https://roxyvaught.github.io/Vacation-Planner/",
     "topics": "HTML, CSS, REST API"
@@ -35,7 +35,7 @@
     {
     "id": 5,
     "name": "Just Tech Blog",
-    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/just-tech-blog-jfif",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/just-tech-blog.jfif",
     "github": "https://github.com/UT-Project-1-Group-5/project-1-group-5",
     "deploy": "https://thawing-gorge-89250.herokuapp.com/",
     "topics": "MySQL, bycrypt, express, handlebars"
