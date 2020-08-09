@@ -2,72 +2,72 @@
 [
     {
     "id": 1,
-    "name": "National Park Service Finder",
+    "name": "National Park Finder",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/NPS-vacation-planner.png",
     "github": "https://github.com/roxyvaught/Vacation-Planner",
     "deploy": "https://roxyvaught.github.io/Vacation-Planner/",
-    "topics": "HTML, CSS, API"
+    "topics": "HTML, CSS, REST API"
     },
     {
     "id": 2,
-    "name": "mvc tech blog",
-    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
-    "github": "https://github.com/roxyvaught/mvc-tech-blog",
-    "deploy": "https://hidden-falls-22101.herokuapp.com/",
-    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    "name": "Note Taker",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/note-taker.JPG",
+    "github": "https://github.com/roxyvaught/Note-Taker",
+    "deploy": "https://secret-stream-96822.herokuapp.com/",
+    "topics": "javascript, express, html5, css, bootstrap"
     },
     {
     "id": 3,
     "name": "budget tracker",
-    "image": "https://github.com/roxyvaught/jpd-react-portfolio/raw/master/src/assets/images/pwabudget.PNG",
-    "github": "https://github.com/roxyvaught/pwa-budget-tracker",
-    "deploy": "https://pwa-budget-tracker61.herokuapp.com/",
-    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/budget.JPG",
+    "github": "https://github.com/roxyvaught/Budget-Tracker",
+    "deploy": "https://budget-tracker-unicorn.herokuapp.com/",
+    "topics": "javascript, progressive web app, indexedDB, mongoDB, mongoose, express"
     },
     {
     "id": 4,
-    "name": "weather dashboard",
-    "image": "https://github.com/roxyvaught/jpd-react-portfolio/raw/master/src/assets/images/weatherdashboard.PNG",
-    "github": "https://github.com/roxyvaught/weather-dashboard",
+    "name": "Portfolio",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/photo-port.JPG",
+    "github": "https://github.com/roxyvaught/photo-port",
     "deploy": "https://roxyvaught.github.io/weather-dashboard/",
-    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    "topics": "react, javascript, minify"
     },
     {
     "id": 5,
-    "name": "have you read it?",
-    "image": "https://github.com/roxyvaught/jpd-react-portfolio/raw/master/src/assets/images/haveyoureadit.PNG",
+    "name": "Just Tech Blog",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/just-tech-blog-jfif",
     "github": "https://github.com/UT-Project-1-Group-5/project-1-group-5",
-    "deploy": "https://ut-project-1-group-5.github.io/project-1-group-5/",
-    "topics": "HTML, CSS, API"
+    "deploy": "https://thawing-gorge-89250.herokuapp.com/",
+    "topics": "MySQL, bycrypt, express, handlebars"
       },
     {
     "id": 6,
-    "name": "work day schedular",
-    "image": "https://github.com/roxyvaught/jpd-react-portfolio/raw/master/src/assets/images/workdayscheduler.PNG",
-    "github": "https://github.com/roxyvaught/work-day-scheduler",
-    "deploy": "https://roxyvaught.github.io/work-day-scheduler/",
-    "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    "name": "The Informed Artist",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/informed.JPG",
+    "github": "https://github.com/roxyvaught/The-Informed-Artist",
+    "deploy": "https://the-informed-artist.herokuapp.com",
+    "topics": "MySQL, express, handlebars, passport"
     },
     {
     "id": 7,
-    "name": "taskmaster",
-    "image": "https://github.com/roxyvaught/jpd-react-portfolio/raw/master/src/assets/images/taskmaster.PNG",
+    "name": "Taskmaster Pro",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/task-master-pro.JPG",
     "github": "https://github.com/roxyvaught/taskmaster-pro",
     "deploy": "https://roxyvaught.github.io/taskmaster-pro/",
-    "topics": "HTML, Javascript, CSS"
+    "topics": "HTML, javascript, CSS"
     },
     {
     "id": 8,
-    "name": "taskinator",
-    "image": "https://github.com/roxyvaught/jpd-react-portfolio/raw/master/src/assets/images/taskinator.PNG",
-    "github": "https://github.com/roxyvaught/taskinator",
-    "deploy": "https://roxyvaught.github.io/taskinator/",
+    "name": "Password Generator",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/password.jfif",
+    "github": "https://github.com/roxyvaught/create-a-password",
+    "deploy": "https://roxyvaught.github.io/create-a-password/",
     "topics": "HTML, Javascript, CSS"
     },
     {
     "id": 9,
-    "name": "run buddy",
-    "image": "https://github.com/roxyvaught/jpd-react-portfolio/raw/master/src/assets/images/runbuddy.png",
+    "name": "Run Buddy",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/run-buddy.jfif",
     "github": "https://github.com/roxyvaught/run-buddy",
     "deploy": "https://roxyvaught.github.io/run-buddy/",
     "topics": "HTML, CSS"

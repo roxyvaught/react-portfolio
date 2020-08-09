@@ -39,30 +39,34 @@ function ContactForm() {
       }
     // JSX
     return (
-        <section>
-          <h1>Contact me</h1>
-          <form id="contact-form" onSubmit={handleSubmit}>
-            <div>
-              <label htmlFor="name">Name:</label>
-              <input type="text" defaultValue={name} onBlur={handleChange} name="name" />
-            </div>
-            <div>
-              <label htmlFor="email">Email address:</label>
-              <input type="email" defaultValue={email} name="email" onBlur={handleChange} />
-            </div>
-            <div>
-              <label htmlFor="message">Message:</label>
-              <textarea name="message" defaultValue={message} onBlur={handleChange} rows="5" />
-            </div>
-            {errorMessage && (
-            <div>
-                 <p className="error-text">{errorMessage}</p>
-          </div>
-            )}
-            <button type="submit">Submit</button>
+      <section id="contact-section">
+          <h1 className="contact">Contact</h1>
+          <hr></hr>
+          <form class="justify-content-center" id="contact-form">
+              <div>
+                  <label htmlFor="name">name:</label>
+                  <input class="form-control" type="text" name="name"  defaultValue={name} onBlur={handleChange}/>
+              </div>
+              <div >
+                  <label htmlFor="email">email:</label>
+                  <input class="form-control" type="email"  name="email" defaultValue={email} onBlur={handleChange} />
+              </div>
+              <div>
+                  <label htmlFor="message">message:</label>
+                  <textarea class="form-control" name="message" defaultValue={message} onBlur={handleChange} rows="7" />
+              </div> 
+              {errorMessage && (
+              <div>
+                  <p className="error-text">{errorMessage}</p>
+              </div>
+              )}
+  
+              <div>
+              <button data-testid='button' class="btn btn-outline-dark mt-2" type="submit" onSubmit={handleSubmit}>Submit</button>
+              </div>
           </form>
-        </section>
-        );
+      </section>
+      );
     }
     
     export default ContactForm;
