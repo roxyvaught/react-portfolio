@@ -34,8 +34,6 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
-  color: var(--light);
   font-family: 'Poiret One', cursive;
 
 }
@@ -105,7 +103,6 @@ button {
   outline: none;
   cursor: pointer;
   margin: 0 1px;
-  background-color: var(--secondary);
 }
 
 button:hover {
@@ -233,34 +230,8 @@ textarea {
   cursor: pointer;
 }
 
-.modalBackdrop {
-	background: rgba(0, 0, 0, .65);
-	bottom: 0;
-	left: 0;
-	overflow: auto;
-	position: fixed;
-	right: 0;
-	top: 0;
-	z-index: 1;
-}
-
-.modalContainer {
-	background: var(--darker);
-	border-radius: 5px;
-	max-width: 100%;
-	margin: 50px auto;
-	padding: 15px;
-	width: 960px;
-}
-
-.modalTitle {
-	font-size: 18px;
-	font-weight: 600;
-	margin-bottom: 25px;
-}
 
 button {
-	background: var(--primary);
 	border: 0;
 	border-radius: 5px;
 	color: #fff;
@@ -307,7 +278,6 @@ a {
 }
 
 .card {
-  background-color: var(--platinum);
   border-radius: 5px;
   height: 400px;
   margin: 2rem;
@@ -321,26 +291,22 @@ a {
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
-  background-color: var(--platinum);
 }
 
 .card .img-container img {
   width: 100%;
   padding: 25px;
   margin-bottom: 20px;
-  background-color: var(--platinum);
 }
 
 .card .content {
   font-size: 18px;
-  background-color: var(--platinum);
   color: var(--orange-soda);
   font-weight: bold;
   text-align: center;
 }
 
 #project-icon {
-  background-color: var(--platinum);
   padding: 5px;
 }
 
@@ -395,11 +361,6 @@ a {
   justify-content: center;
 }
 
-#about-section p {
-  background-color: var(--alabaster);
-  color: var(--onyx);
-}
-
 #contact-section {
   justify-content: center;
   margin: 20px;
@@ -423,18 +384,9 @@ a {
   color: var(--onyx);
 }
 
-#front-back p {
-  background-color: var(--alabaster);
-}
-
 #resume p {
-  background-color: var(--alabaster);
   color: var(--onyx);
   margin-top: 5px;
-}
-
-#footer {
-  background-color: var(--onyx);
 }
 
 #footer .icon {
