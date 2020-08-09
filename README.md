@@ -1,6 +1,8 @@
 # Professional React Portfolio
   My professional portfolio redone in React. The deployed page can be found [here](http://roxyvaught.github.io/react-portfolio)
 
+  <img src="src/assets/images/screenshot.JPG" alt="screenshot of site" />
+
   ## Badges 
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
