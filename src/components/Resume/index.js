@@ -1,4 +1,6 @@
 import React from 'react'; 
+import { Container, Row, Col } from 'react-bootstrap';
+
 
 function Resume() {
 
@@ -13,7 +15,7 @@ return(
                     </div>
                     <div className="nine columns main-col">
                     <div className="row item">
-                        <div className="twelve columns">
+                        <div className="thirteen columns">
                         <h3>University of Louisiana at Lafayette</h3>
                         <p className="info">Master of Science, Geology <span>•</span> <em className="date">August 2016 - May 2018</em></p>
                         <p><span id='activities'>Thesis:</span> Tying Hydrologic Balance and Human Settlement Through Stable Isotope Analysis of Lacustrine Sediments
@@ -37,7 +39,7 @@ return(
                     <h1><span>Work</span></h1>
                     </div>
                     <div className="nine columns main-col">
-                    <div className="row item">
+                    <Container fluid>
                         <div className="twelve columns">
                         <h3>Schlumberger</h3>
                         <p className="info">Wireline Field Engineer <span>•</span> <em className="date">October 2018 - March 2020</em></p>
@@ -62,8 +64,8 @@ return(
                             </li>
                         </ul>
                         </div>
-                    </div> {/* item end */}
-                    <div className="row item">
+                    </Container> {/* item end */}
+                    <Container fluid>
                         <div className="twelve columns">
                         <h3>TGS-NOPEC</h3>
                         <p className="info">Geoscience Intern <span>•</span> <em className="date">May 2018 - September 2018</em></p>
@@ -79,8 +81,8 @@ return(
                             </li>
                         </ul>
                         </div>
-                    </div> {/* item end */}
-                    <div className="row item">
+                    </Container> {/* item end */}
+                    <Container fluid>
                         <div className="twelve columns">
                         <h3>University of Louisiana at Lafayette</h3>
                         <p className="info">Team Lead- Imperial Barrel Award Team<span>•</span> <em className="date">January 2018 - May 2018</em></p>
@@ -93,8 +95,8 @@ return(
                             </li>
                         </ul>
                         </div>
-                    </div> {/* item end */}
-                    <div className="row item">
+                    </Container> {/* item end */}
+                    <Container fluid>
                         <div className="twelve columns" align="center">
                         <h3>University of Louisiana at Lafayette</h3>
                         <p className="info">Graduate Research and Teaching Assistant <span>•</span> <em className="date"> August 2016 - May 2018</em></p>
@@ -111,8 +113,8 @@ return(
                             
                            </ul>
                         </div>
-                    </div> {/* item end */}
-                    <div className="row item">
+                    </Container> {/* item end */}
+                    <Container fluid>
                         <div className="twelve columns" align="center">
                         <h3>U.S. Bureau of Land Management</h3>
                         <p className="info">Geology Intern <span>•</span> <em className="date"> May 2017 - August 2017</em></p>
@@ -125,7 +127,7 @@ return(
                             </li>
                            </ul>
                         </div>
-                    </div> {/* item end */}
+                    </Container> {/* item end */}
                     </div> {/* main-col end */}
                 </div> {/* End Work */}
                 {/* Skills
@@ -134,28 +136,33 @@ return(
                     <div className="three columns header-col">
                     <h1><span>Skills</span></h1>
                     </div>
-                    <div className="nine columns main-col">
+                   
                     <p>
-                        
                     </p>
                     
-                        <ul className="skills">
-                        <li>HTML5/CSS</li>
+                        <Container>
+                            <Row>
+                                <Col s={{ order: 'first' }}>
+                                <li>HTML5/CSS</li>
                         <li>Javascript</li>
                         <li>Git</li>
                         <li>Node</li>
                         <li>SQL</li>
-                        </ul>
-                        <ul className="skills">
-                        <li>Leadership and People Management</li>
+                        <li>MongoDB</li>
+                        <li>React</li>
+                                </Col>
+                                <Col s={{ order: 'last' }}>
+                                <li>Leadership and People Management</li>
                             <li>Spanish, French</li>
                             <li>Wireline Logging and Analysis</li>
                             <li>ESRI ArcGIS</li>
                             <li>HAZMAT Transportation</li>
                             <li>L4/L5 Explosives and Radiation Clearance</li>
-                        </ul>
+                                </Col>
+                            </Row>
+                        </Container>
                     
-                    </div> 
+                     
                 </div> 
                 </section> 
 

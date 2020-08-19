@@ -1,12 +1,12 @@
 import React from 'react';
 import profile from '../../assets/images/roxanna.JPG';
+import { Container, Row, Col } from 'react-bootstrap';
 
 function About() {
   return(
-  <section className="title">
+  <Container fluid>
     <h1 id="aboutTitle">Roxanna Vaught-Mijares</h1>
     <hr></hr>
-    
     <div className="row justify-content-cener">
       <div className="col-10" id="about-section">
           <img className="mb-5" id="profile" src={profile} alt="Roxanna Vaught"/>
@@ -15,7 +15,7 @@ function About() {
       </p>
     </div>  
     </div>
-  </section> 
+  </Container> 
 )}
 
 export default About;
