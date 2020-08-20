@@ -26,7 +26,7 @@ return(
 
                         <h3>Florida State University</h3>
                         <p className="info">Bachelor of Science, Geology <span>•</span> <em className="date">July 2012 - December 2015</em></p>
-                        <p><span id='activities'>Activities:</span> FSU Varsity Rowing Women's Team - 2012 -205
+                        <p><span id='activities'>Activities:</span> FSU Varsity Rowing Women's Team - 2012 -2015
                         <p>President and Co-Founder of the National Alliance on Mental Illness (NAMI) on Campus at FSU</p>
                         </p>
                         </div>
