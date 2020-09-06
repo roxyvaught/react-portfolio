@@ -10,22 +10,30 @@
     },
     {
     "id": 2,
-    "name": "Note Taker",
-    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/note-taker.JPG",
-    "github": "https://github.com/roxyvaught/Note-Taker",
-    "deploy": "https://secret-stream-96822.herokuapp.com/",
-    "topics": "javascript, express, html5, css, bootstrap"
+    "name": "Project It!",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/project-it.JPG",
+    "github": "https://github.com/roxyvaught/Project-It",
+    "deploy": "https://project-it-panda.herokuapp.com/",
+    "topics": "react, express, node.js, mongoDB"
     },
     {
     "id": 3,
-    "name": "budget tracker",
+    "name": "Budget Tracker",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/budget.JPG",
     "github": "https://github.com/roxyvaught/Budget-Tracker",
     "deploy": "https://budget-tracker-unicorn.herokuapp.com/",
     "topics": "javascript, progressive web app, indexedDB, mongoDB, mongoose, express"
     },
     {
-    "id": 4,
+      "id": 4,
+      "name": "Note Taker",
+      "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/note-taker.JPG",
+      "github": "https://github.com/roxyvaught/Note-Taker",
+      "deploy": "https://secret-stream-96822.herokuapp.com/",
+      "topics": "javascript, express, html5, css, bootstrap"
+      },
+    {
+    "id": 5,
     "name": "Portfolio",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/photo-port.JPG",
     "github": "https://github.com/roxyvaught/photo-port",
@@ -33,7 +41,7 @@
     "topics": "react, javascript, minify"
     },
     {
-    "id": 5,
+    "id": 6,
     "name": "Just Tech Blog",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/just-tech-blog.jfif",
     "github": "https://github.com/UT-Project-1-Group-5/project-1-group-5",
@@ -41,7 +49,7 @@
     "topics": "MySQL, bycrypt, express, handlebars"
       },
     {
-    "id": 6,
+    "id": 7,
     "name": "The Informed Artist",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/informed.JPG",
     "github": "https://github.com/roxyvaught/The-Informed-Artist",
@@ -49,7 +57,7 @@
     "topics": "MySQL, express, handlebars, passport"
     },
     {
-    "id": 7,
+    "id": 8,
     "name": "Taskmaster Pro",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/task-master-pro.JPG",
     "github": "https://github.com/roxyvaught/taskmaster-pro",
@@ -57,7 +65,7 @@
     "topics": "HTML, javascript, CSS"
     },
     {
-    "id": 8,
+    "id": 9,
     "name": "Password Generator",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/password.jfif",
     "github": "https://github.com/roxyvaught/create-a-password",
@@ -65,7 +73,7 @@
     "topics": "HTML, Javascript, CSS"
     },
     {
-    "id": 9,
+    "id": 10,
     "name": "Run Buddy",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/run-buddy.jfif",
     "github": "https://github.com/roxyvaught/run-buddy",
