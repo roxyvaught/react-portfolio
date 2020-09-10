@@ -1,4 +1,8 @@
-
+:root {
+  --primary-color: #7adfd1;
+  --secondary-color: #369ba8;
+  --tertiary-color: #24455e;
+}
 main {
 	margin: 0 auto;
 	max-width: 90%;
@@ -18,11 +22,15 @@ body {
   font-size: 18px;
   letter-spacing: .1em;
   font-family: 'Poiret One', cursive;
+  background-color: #e6e6e6;
+  opacity: .85;
+  background-image: linear-gradient(to right, rgba(47, 226, 196, 0.5), rgba(36, 69, 94, 0.8)), url("./assets/cover/cover-image.jpg");
 
 }
 
-title {
+.title {
   justify-content: center;
+  color: #E8E8E8;
 }
 
 h1,
@@ -67,8 +75,19 @@ p {
   text-align: center;
 }
 
+#aboutp {
+  font-size: 1.1rem;
+  margin-top: 0;
+  text-align: center;
+  color: #E8E8E8;
+}
+
+.page-header {
+  color: #E8E8E8
+}
+
 a {
-  color: var(--tertiary);
+  color: var(--secondary-color);
   text-decoration: none;
   font-weight: bold;
 }
@@ -137,7 +156,6 @@ nav  li {
 }
 
 textarea {
-	width: 600px;
 	height: 120px;
 	border: 3px solid #cccccc;
 	padding: 5px;
@@ -206,6 +224,8 @@ a {
   font-size: 22px;
   text-decoration: none;
   align-content: center;
+  color: rgb(255, 255, 255) !important;
+  background-color: transparent !important;
 }
 
 #navigation a {
@@ -274,6 +294,9 @@ a {
 #footer {
   padding: 5px;
   margin-top: 10px;
+  color: #e6e6e6;
+  background: var(--tertiary-color);
+  opacity: .9;
 }
 
 .icon {
@@ -286,6 +309,7 @@ a {
 
 #about-section {
   margin: 2em;
+  
 }
 
 #profile {
@@ -379,6 +403,7 @@ a {
    margin-bottom: 18px;
    margin-top: 9px;
    margin-left: 50px;
+   text-align: center;
 }
 #resume .info span {
    margin-right: 5px;

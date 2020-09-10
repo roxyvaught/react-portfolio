@@ -7,7 +7,7 @@ function Navigation(props) {
     <div className=" row navigation" id="navigation">
         <NavLink to="/about">about </NavLink>
         <NavLink to="/portfolio">portfolio </NavLink>
-        <NavLink to="/contact">contact </NavLink>
+        <NavLink to="/geoport">geology</NavLink>
         <NavLink to="/resume">resume</NavLink>
     </div>
   );
