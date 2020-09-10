@@ -16,9 +16,9 @@
     {
     "id": 2,
     "name": "American Conservation Experience",
-    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/ace.jpg",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/ace1.jpg",
     "deploy": "https://vimeo.com/191202355",
-    "topics": "Collaborated with the US Forest Service as a member of AmeriCorps to construct the Kingsbury Stinger Trail in South Lake Tahoe"
+    "topics": "Collaborated with the US Forest Service to construct the Kingsbury Stinger Trail in South Lake Tahoe"
     },
     {
     "id": 3,
