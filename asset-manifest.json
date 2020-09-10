@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdf8a113.chunk.css",
+    "main.js": "/static/js/main.7ee58130.chunk.js",
+    "main.js.map": "/static/js/main.7ee58130.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.8c5bb31f.chunk.js": "/static/js/2.8c5bb31f.chunk.js",
+    "static/js/2.8c5bb31f.chunk.js.map": "/static/js/2.8c5bb31f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.96e64d9b9aa2dec11be77b9d10305f69.js": "/precache-manifest.96e64d9b9aa2dec11be77b9d10305f69.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.bdf8a113.chunk.css.map": "/static/css/main.bdf8a113.chunk.css.map",
+    "static/js/2.8c5bb31f.chunk.js.LICENSE.txt": "/static/js/2.8c5bb31f.chunk.js.LICENSE.txt",
+    "static/media/roxanna.JPG": "/static/media/roxanna.e80c307c.JPG",
+    "static/media/index.css": "/static/media/splashbw.b0a7e2ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.8c5bb31f.chunk.js",
+    "static/css/main.bdf8a113.chunk.css",
+    "static/js/main.7ee58130.chunk.js"
+  ]
+}
