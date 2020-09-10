@@ -4,7 +4,7 @@
         "name": "Master's Thesis",
         "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/titicaca.jpg",
         "deploy": "https://pqdtopen.proquest.com/doc/2206743061.html?FMT=ABS",
-        "topics": "Reconstructing Hydrologic Balance with Carbon and Oxygen Isotopes"
+        "topics": "Tying Hydrologic Balance and Human Settlement through Stable Isotope Analysis of Lacustrine Sediments"
     },
     {
     "id": 1,
@@ -18,22 +18,20 @@
     "name": "American Conservation Experience",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/ace.jpg",
     "deploy": "https://vimeo.com/191202355",
-    "tools": "Collaborated with the US Forest Service as a member of AmeriCorps to construct the Kingsbury Stinger Trail in South Lake Tahoe"
+    "topics": "Collaborated with the US Forest Service as a member of AmeriCorps to construct the Kingsbury Stinger Trail in South Lake Tahoe"
     },
     {
     "id": 3,
-    "name": "Tech Blog",
-    "image": "https://raw.githubusercontent.com/Kaynalem/katelyn-lopes/master/src/assets/images/tech-blog2.png",
-    "github": "https://github.com/Kaynalem/tech-blog",
-    "deployed": "https://serene-eyrie-02684.herokuapp.com/",
-    "tools": "node.js, express, express-handlebars, express-session, connect-session-sequelize, mysql2, sequelize, dotenv, bcrypt, jest, Bootstrap"
+    "name": "Bureau of Land Management",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/blm-sulfates.jpg",
+    "deployed": "http://usaconservation.org/programs/epic-internship/dha-home/direct-hire-2015/dha-intern-profiles/",
+    "tools": "Worked with senior staff to adjudicate federal oil, gas, and geothermal leases throughout Nevada. Worked on the Environmental Assessment for a local Ormat geothermal project."
     },
     {
     "id": 4,
-    "name": "Budget Tracker",
-    "image": "",
-    "github": "",
-    "deployed": "",
-    "tools": "IndexedDB, mongoDB, mongoose, compression, morgan, express"
+    "name": "FSU Field Camp",
+    "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/fieldcamp.jpe",
+    "deploy": "https://www.eoas.fsu.edu/undergrad-degrees/geology/summer-field/#",
+    "topics": "A 6 week field course focused on using tradition and modern techniques to collect observational, structural, geophysical, and stratigraphic data in the field in Colorado and New Mexico."
     }
 ]
