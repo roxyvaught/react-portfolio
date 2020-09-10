@@ -24,7 +24,7 @@ body {
   font-family: 'Poiret One', cursive;
   background-color: #e6e6e6;
   opacity: .85;
-  background-image: linear-gradient(to right, rgba(47, 226, 196, 0.5), rgba(36, 69, 94, 0.8)), url("./assets/cover/cover-image.jpg");
+  background-image: linear-gradient(to right, rgba(47, 226, 196, 0.5), rgba(36, 69, 94, 0.8)), url("./assets/cover/splashbw.jpg");
 
 }
 
