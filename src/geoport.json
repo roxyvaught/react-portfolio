@@ -24,8 +24,8 @@
     "id": 3,
     "name": "Bureau of Land Management",
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/blm-sulfates.jpg",
-    "deployed": "http://usaconservation.org/programs/epic-internship/dha-home/direct-hire-2015/dha-intern-profiles/",
-    "tools": "Worked with senior staff to adjudicate federal oil, gas, and geothermal leases throughout Nevada. Worked on the Environmental Assessment for a local Ormat geothermal project."
+    "deploy": "http://usaconservation.org/programs/epic-internship/dha-home/direct-hire-2015/dha-intern-profiles/",
+    "topics": "Worked with senior staff to adjudicate federal oil, gas, and geothermal leases throughout Nevada. Worked on the Environmental Assessment for a local Ormat geothermal project."
     },
     {
     "id": 4,

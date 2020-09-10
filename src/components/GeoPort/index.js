@@ -22,7 +22,8 @@ function Portfolio () {
               image={project.image} 
               name={project.name} 
               deploy={project.deploy} 
-              topics={project.topics}/>
+              topics={project.topics}
+              description={project.description}/>
             ))}
           </Wrapper>
         </section>

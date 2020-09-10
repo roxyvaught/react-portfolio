@@ -30,7 +30,7 @@ body {
 
 .title {
   justify-content: center;
-  color: #E8E8E8;
+  color: #fff;
 }
 
 h1,
@@ -77,9 +77,13 @@ p {
 
 #aboutp {
   font-size: 1.1rem;
-  margin-top: 0;
   text-align: center;
-  color: #E8E8E8;
+}
+
+#aboutsection {
+  background: #E8E8E8;
+  padding-top: 5px;
+  border-radius: 25px;
 }
 
 .page-header {
@@ -274,6 +278,9 @@ a {
   color: var(--onyx);
 }
 
+#description {
+  font-size: small;
+}
 #card-title {
   margin-top: 10px;
   color: var(--onyx);
@@ -322,6 +329,7 @@ a {
 #aboutTitle {
   justify-content: center;
 }
+
 
 #contact-section {
   justify-content: center;

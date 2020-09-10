@@ -7,16 +7,24 @@ function ProjectCards(props) {
       <div className="card"> 
         <div className="img-container">
           <img alt={props.name} src={props.image}/>
+          
         </div>
         <div className="content">
               <p className="project-title" id="card-title">{props.name}</p>
               <p>
-              <a href={props.github}><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Repository" id="project-icon"/></a> 
-              <a href={props.deploy}><img src="https://img.icons8.com/ultraviolet/40/000000/go.png" alt="Deployed Site" id="project-icon"/></a> 
+              <a href={props.github} target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Repository" id="project-icon"/></a> 
+              <a href={props.deploy} target="_blank"  rel="noopener noreferrer"><img src="https://img.icons8.com/ultraviolet/40/000000/go.png" alt="Deployed Site" id="project-icon"/></a> 
               </p>
-              <p id="topics">
-                    ({props.topics})
+              <p id="description">
+                  {props.description}
                 </p>
+              <p id="topics">
+                    {props.topics}
+                </p>
+               
+             
+                    
+                
         </div>
       </div>
     );

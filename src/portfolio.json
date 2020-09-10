@@ -6,7 +6,8 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/NPS-vaction-planner.png",
     "github": "https://github.com/roxyvaught/Vacation-Planner",
     "deploy": "https://roxyvaught.github.io/Vacation-Planner/",
-    "topics": "HTML, CSS, REST API"
+    "description": "An app that displays weather, events, and alerts for any of your favorite US National Parks",
+    "topics": "html5, css, rest - api"
     },
     {
     "id": 2,
@@ -14,6 +15,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/project-it.JPG",
     "github": "https://github.com/roxyvaught/Project-It",
     "deploy": "https://project-it-panda.herokuapp.com/",
+    "description": "A simple project management app where you can add projects, tasks, and deadlines",
     "topics": "react, express, node.js, mongoDB"
     },
     {
@@ -22,6 +24,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/budget.JPG",
     "github": "https://github.com/roxyvaught/Budget-Tracker",
     "deploy": "https://budget-tracker-unicorn.herokuapp.com/",
+    "description": "A budget tracker with offline functionality",
     "topics": "javascript, progressive web app, indexedDB, mongoDB, mongoose, express"
     },
     {
@@ -30,6 +33,7 @@
       "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/note-taker.JPG",
       "github": "https://github.com/roxyvaught/Note-Taker",
       "deploy": "https://secret-stream-96822.herokuapp.com/",
+      "description": "A note taking application that can be used to write and save notes",
       "topics": "javascript, express, html5, css, bootstrap"
       },
     {
@@ -38,6 +42,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/photo-port.JPG",
     "github": "https://github.com/roxyvaught/photo-port",
     "deploy": "https://roxyvaught.github.io/weather-dashboard/",
+    "description": "A photographer professional portfolio built with react",
     "topics": "react, javascript, minify"
     },
     {
@@ -46,6 +51,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/just-tech-blog.jfif",
     "github": "https://github.com/roxyvaught/tech-blog",
     "deploy": "https://thawing-gorge-89250.herokuapp.com/",
+    "description": "A MySQL database and CMS-style blog structured using a Model View Controller (MVC) paradigm",
     "topics": "MySQL, bycrypt, express, handlebars"
       },
     {
@@ -54,6 +60,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/informed.JPG",
     "github": "https://github.com/roxyvaught/The-Informed-Artist",
     "deploy": "https://the-informed-artist.herokuapp.com",
+    "description": "A art exchange website where users can upload their photos and interact with other artists",
     "topics": "MySQL, express, handlebars, passport"
     },
     {
@@ -62,6 +69,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/task-master-pro.JPG",
     "github": "https://github.com/roxyvaught/taskmaster-pro",
     "deploy": "https://roxyvaught.github.io/taskmaster-pro/",
+    "description": "A task management app that lets you add, remove, and track tasks",
     "topics": "HTML, javascript, CSS"
     },
     {
@@ -70,6 +78,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/password.jfif",
     "github": "https://github.com/roxyvaught/create-a-password",
     "deploy": "https://roxyvaught.github.io/create-a-password/",
+    "description": "A simple password generator",
     "topics": "HTML, Javascript, CSS"
     },
     {
@@ -78,6 +87,7 @@
     "image": "https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/images/run-buddy.jfif",
     "github": "https://github.com/roxyvaught/run-buddy",
     "deploy": "https://roxyvaught.github.io/run-buddy/",
+    "description": "A website offering fitness training services",
     "topics": "HTML, CSS"
     }
 ]

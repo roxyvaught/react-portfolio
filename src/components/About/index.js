@@ -8,7 +8,7 @@ function About() {
      <section className="section-title container">
                 <h1 className="page-header">Roxanna Vaught-Mijares</h1>
                 <hr></hr>
-                <div className="row justify-content-center">
+                <div className="row justify-content-center" id="aboutsection">
                     <div className="col-10 section-content">
                         <img className="mt-3 mb-5 me" id="profile" src={profile} alt="Roxanna Vaught"/>
                         <p id="aboutp">
@@ -19,7 +19,7 @@ function About() {
                         </p>
 
                         <p>
-                            <a href="/#/resume" className="text-light text-decoration-none"> View my resume</a>
+                            <a href="/#/resume" className="text-dark text-decoration-none"> View my resume</a>
                         </p>
                     </div>  
             </div>
