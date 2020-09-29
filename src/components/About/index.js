@@ -20,7 +20,7 @@ function About() {
 
                         <p>
                             <a href="https://github.com/roxyvaught/react-portfolio/raw/master/src/assets/resume.pdf" className="text-info text-decoration-none"> View my resume |</a>
-                            <a href="mailto:roxanna.vaught@gmail.com" className="text-primary text-decoration-none"> Send me an email</a>
+                            <a href="mailto:roxanna.vaught@gmail.com" className="text-primary text-decoration-none">roxanna.vaught@gmail.com</a>
                         </p>
                     </div>  
             </div>
